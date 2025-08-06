@@ -1,5 +1,5 @@
 {
-  "main": "src/index.js",
+  "main": "src/scripts/index.js",
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.ks",
     "build": "webpack --config webpack.prod.js"
